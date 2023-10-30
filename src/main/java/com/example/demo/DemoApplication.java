@@ -8,8 +8,9 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
+        System.out.println("jkncdlkjncdjnklcdjnkldcjnkdsjlnksdjknsdkljn");
     }
 
-};lnkjdsvakl;jds;lkjhndas;ohiad;oihadco;iudf;ousefdohiewfiuowhfrohwrefho;rwfophurweopuw
-jkl;sdfiupgbedfuopewdpuoiwepuoiwepuopuhwepouweij[we[
-        kldsckljdskjldsfjkdfw]]
+
+
+}
